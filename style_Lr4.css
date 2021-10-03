@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;  
+}
+
+p{
+    margin: 0;
+}
+
+.the1stpart{
+    background-color: black;
+}
+
+.heading{
+    font-size: 72px;
+    text-align: center;
+}
+
+.quotation{
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+}
+
+.img1{
+    width: 1400px;
+    padding: 0 3.5%;
+}
+
+.the2ndpart{
+    background-color: black;
+}
+
+.about{
+    font-size: 34px;
+    width: 1400px;
+    padding: 1% 3.5%;
+}
+
+.img2{
+    width: 1400px;
+    padding: 0 3.5%;
+}
+
+.the3rdpart{
+    background-color: black;
+}
+
+.description{
+    font-size: 34px;
+    width: 1400px;
+    padding: 1% 3.5%;
+}
+
+.finally{
+    font-size: 34px;
+    width: 1400px;
+    padding: 1% 3.5%;
+}
+
+.img3{
+    width: 1400px;
+    padding: 0 3.5%;
+}
+
+.video{
+    background-color: black;
+}
+
+video{
+    padding: 7.2% 7%;
+}
+
+.after_video{
+    background-color: black;
+}
+
+.request{
+    font-size: 30px;
+    padding-left: 2%;
+}
+
+.drums{
+    width: 1300px;
+    padding: 1% 3%;
+}
+
+.question{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 1%
+}
+
+.back{
+    text-align: right;
+    padding-bottom: 0.5%;
+}
+
+.link_back{
+    font-size: 26px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+}
+
+.link_back:hover{
+    text-decoration: underline;
+}
